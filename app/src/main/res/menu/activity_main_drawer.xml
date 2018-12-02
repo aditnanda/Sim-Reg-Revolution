@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_tsel"
+            android:icon="@drawable/telkomsel"
+            android:title="Telkomsel" />
+        <item
+            android:id="@+id/item_isat"
+            android:icon="@drawable/indosat"
+            android:title="Indosat" />
+        <item
+            android:id="@+id/item_xl"
+            android:icon="@drawable/xl"
+            android:title="XL/Axis" />
+        <item
+            android:id="@+id/item_tri"
+            android:icon="@drawable/tri"
+            android:title="Tri" />
+        <item
+            android:id="@+id/item_smart"
+            android:icon="@drawable/smartfren"
+            android:title="Smartfren" />
+        <item
+            android:id="@+id/item_bolt"
+            android:icon="@drawable/bolt"
+            android:title="Bolt" />
+    </group>
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Bagikan" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="Tentang" />
+        </menu>
+    </item>
+
+</menu>

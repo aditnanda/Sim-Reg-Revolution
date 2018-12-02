@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fb54f</color>
+    <color name="colorPrimaryDark">#309f39</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tsel">#d63e39</color>
+    <color name="xl">#556ee3</color>
+    <color name="smart">#6a9d37</color>
+    <color name="isat">#d86d02</color>
+    <color name="tri">#059bd3</color>
+    <color name="bolt">#6aa62e</color>
+    <color name="colorPrimaryLow">#6bd679</color>
+    <color name="colorDark">#eaeaea</color>
+
+
+</resources>
